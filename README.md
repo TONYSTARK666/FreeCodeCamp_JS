@@ -1,1 +1,1 @@
-# FreeCodeCamp_JS
+# Обучение JavaScript на FreeCodeCamp
